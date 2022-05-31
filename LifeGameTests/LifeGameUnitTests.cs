@@ -32,7 +32,7 @@ namespace LifeGameTests
 
            new TestData {row= 5, column = 1, points= new Point[] {new Point { X=1, Y=0 }, new Point { X=2, Y=0 }, new Point { X=3, Y=0 },
                                                                   new Point { X=4, Y=0 }}, 
-               actual = new Point[]{ new Point { X=2, Y=0 }, new Point { X=3, Y=0 } } },
+               actual = new Point[]{ new Point { X=0, Y=0 }, new Point { X=3, Y=0 } } },
 
            new TestData {row= 5, column = 5, points= new Point[] {new Point { X=1, Y=2 }, new Point { X=1, Y=3 },
                                                                   new Point { X=2, Y=1 }, new Point { X=2, Y=4 },
