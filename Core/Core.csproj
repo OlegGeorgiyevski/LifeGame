@@ -5,7 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UserSecretsId>7793e6cd-bfce-4aca-bb18-39169fbae011</UserSecretsId>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Version>1.0.1</Version>
+	<AssemblyName>Core</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
